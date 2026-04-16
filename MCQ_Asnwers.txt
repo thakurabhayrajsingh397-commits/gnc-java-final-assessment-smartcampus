@@ -1,0 +1,4 @@
+Q1: B - HashMap<Student, ArrayList<Course>>
+Q2: C - Custom Exception
+Q3: B - Synchronized / Thread-safe collection
+Q4: B - Interface
